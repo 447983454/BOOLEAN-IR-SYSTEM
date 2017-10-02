@@ -1,0 +1,1506 @@
+Tragedy/Hamlet/3/3
+101011
+Tragedy/Hamlet/3/1
+101012
+Tragedy/Hamlet/3/2
+101013
+Tragedy/Hamlet/3/4
+101014
+Tragedy/Hamlet/1/3
+101021
+Tragedy/Hamlet/1/1
+101022
+Tragedy/Hamlet/1/2
+101023
+Tragedy/Hamlet/1/5
+101024
+Tragedy/Hamlet/1/4
+101025
+Tragedy/Hamlet/2/1
+101031
+Tragedy/Hamlet/2/2
+101032
+Tragedy/Hamlet/5/1
+101041
+Tragedy/Hamlet/5/2
+101042
+Tragedy/Hamlet/4/3
+101051
+Tragedy/Hamlet/4/1
+101052
+Tragedy/Hamlet/4/7
+101053
+Tragedy/Hamlet/4/2
+101054
+Tragedy/Hamlet/4/5
+101055
+Tragedy/Hamlet/4/6
+101056
+Tragedy/Hamlet/4/4
+101057
+Tragedy/Macbeth/3/3
+102011
+Tragedy/Macbeth/3/1
+102012
+Tragedy/Macbeth/3/2
+102013
+Tragedy/Macbeth/3/5
+102014
+Tragedy/Macbeth/3/6
+102015
+Tragedy/Macbeth/3/4
+102016
+Tragedy/Macbeth/1/3
+102021
+Tragedy/Macbeth/1/1
+102022
+Tragedy/Macbeth/1/7
+102023
+Tragedy/Macbeth/1/2
+102024
+Tragedy/Macbeth/1/5
+102025
+Tragedy/Macbeth/1/6
+102026
+Tragedy/Macbeth/1/4
+102027
+Tragedy/Macbeth/2/3
+102031
+Tragedy/Macbeth/2/1
+102032
+Tragedy/Macbeth/2/2
+102033
+Tragedy/Macbeth/2/4
+102034
+Tragedy/Macbeth/5/8
+102041
+Tragedy/Macbeth/5/3
+102042
+Tragedy/Macbeth/5/1
+102043
+Tragedy/Macbeth/5/7
+102044
+Tragedy/Macbeth/5/2
+102045
+Tragedy/Macbeth/5/5
+102046
+Tragedy/Macbeth/5/6
+102047
+Tragedy/Macbeth/5/4
+102048
+Tragedy/Macbeth/4/3
+102051
+Tragedy/Macbeth/4/1
+102052
+Tragedy/Macbeth/4/2
+102053
+Tragedy/Coriolanus/3/3
+103011
+Tragedy/Coriolanus/3/1
+103012
+Tragedy/Coriolanus/3/2
+103013
+Tragedy/Coriolanus/1/8
+103021
+Tragedy/Coriolanus/1/3
+103022
+Tragedy/Coriolanus/1/1
+103023
+Tragedy/Coriolanus/1/10
+103024
+Tragedy/Coriolanus/1/7
+103025
+Tragedy/Coriolanus/1/2
+103026
+Tragedy/Coriolanus/1/5
+103027
+Tragedy/Coriolanus/1/9
+103028
+Tragedy/Coriolanus/1/6
+103029
+Tragedy/Coriolanus/1/4
+1030210
+Tragedy/Coriolanus/2/3
+103031
+Tragedy/Coriolanus/2/1
+103032
+Tragedy/Coriolanus/2/2
+103033
+Tragedy/Coriolanus/5/3
+103041
+Tragedy/Coriolanus/5/1
+103042
+Tragedy/Coriolanus/5/2
+103043
+Tragedy/Coriolanus/5/5
+103044
+Tragedy/Coriolanus/5/6
+103045
+Tragedy/Coriolanus/5/4
+103046
+Tragedy/Coriolanus/4/3
+103051
+Tragedy/Coriolanus/4/1
+103052
+Tragedy/Coriolanus/4/7
+103053
+Tragedy/Coriolanus/4/2
+103054
+Tragedy/Coriolanus/4/5
+103055
+Tragedy/Coriolanus/4/6
+103056
+Tragedy/Coriolanus/4/4
+103057
+Tragedy/Timon of Athens/3/3
+104011
+Tragedy/Timon of Athens/3/1
+104012
+Tragedy/Timon of Athens/3/2
+104013
+Tragedy/Timon of Athens/3/5
+104014
+Tragedy/Timon of Athens/3/6
+104015
+Tragedy/Timon of Athens/3/4
+104016
+Tragedy/Timon of Athens/1/1
+104021
+Tragedy/Timon of Athens/1/2
+104022
+Tragedy/Timon of Athens/2/1
+104031
+Tragedy/Timon of Athens/2/2
+104032
+Tragedy/Timon of Athens/5/3
+104041
+Tragedy/Timon of Athens/5/1
+104042
+Tragedy/Timon of Athens/5/2
+104043
+Tragedy/Timon of Athens/5/4
+104044
+Tragedy/Timon of Athens/4/3
+104051
+Tragedy/Timon of Athens/4/1
+104052
+Tragedy/Timon of Athens/4/2
+104053
+Tragedy/Romeo and Juliet/3/3
+105011
+Tragedy/Romeo and Juliet/3/1
+105012
+Tragedy/Romeo and Juliet/3/2
+105013
+Tragedy/Romeo and Juliet/3/5
+105014
+Tragedy/Romeo and Juliet/3/4
+105015
+Tragedy/Romeo and Juliet/1/3
+105021
+Tragedy/Romeo and Juliet/1/1
+105022
+Tragedy/Romeo and Juliet/1/2
+105023
+Tragedy/Romeo and Juliet/1/5
+105024
+Tragedy/Romeo and Juliet/1/6
+105025
+Tragedy/Romeo and Juliet/1/4
+105026
+Tragedy/Romeo and Juliet/2/3
+105031
+Tragedy/Romeo and Juliet/2/1
+105032
+Tragedy/Romeo and Juliet/2/7
+105033
+Tragedy/Romeo and Juliet/2/2
+105034
+Tragedy/Romeo and Juliet/2/5
+105035
+Tragedy/Romeo and Juliet/2/6
+105036
+Tragedy/Romeo and Juliet/2/4
+105037
+Tragedy/Romeo and Juliet/5/3
+105041
+Tragedy/Romeo and Juliet/5/1
+105042
+Tragedy/Romeo and Juliet/5/2
+105043
+Tragedy/Romeo and Juliet/4/3
+105051
+Tragedy/Romeo and Juliet/4/1
+105052
+Tragedy/Romeo and Juliet/4/2
+105053
+Tragedy/Romeo and Juliet/4/5
+105054
+Tragedy/Romeo and Juliet/4/4
+105055
+Tragedy/Othello/3/3
+106011
+Tragedy/Othello/3/1
+106012
+Tragedy/Othello/3/2
+106013
+Tragedy/Othello/3/4
+106014
+Tragedy/Othello/1/3
+106021
+Tragedy/Othello/1/1
+106022
+Tragedy/Othello/1/2
+106023
+Tragedy/Othello/2/3
+106031
+Tragedy/Othello/2/1
+106032
+Tragedy/Othello/2/2
+106033
+Tragedy/Othello/5/1
+106041
+Tragedy/Othello/5/2
+106042
+Tragedy/Othello/4/3
+106051
+Tragedy/Othello/4/1
+106052
+Tragedy/Othello/4/2
+106053
+Tragedy/Antony and Cleopatra/3/8
+107011
+Tragedy/Antony and Cleopatra/3/3
+107012
+Tragedy/Antony and Cleopatra/3/13
+107013
+Tragedy/Antony and Cleopatra/3/1
+107014
+Tragedy/Antony and Cleopatra/3/10
+107015
+Tragedy/Antony and Cleopatra/3/7
+107016
+Tragedy/Antony and Cleopatra/3/2
+107017
+Tragedy/Antony and Cleopatra/3/5
+107018
+Tragedy/Antony and Cleopatra/3/9
+107019
+Tragedy/Antony and Cleopatra/3/12
+1070110
+Tragedy/Antony and Cleopatra/3/11
+1070111
+Tragedy/Antony and Cleopatra/3/6
+1070112
+Tragedy/Antony and Cleopatra/3/4
+1070113
+Tragedy/Antony and Cleopatra/1/3
+107021
+Tragedy/Antony and Cleopatra/1/1
+107022
+Tragedy/Antony and Cleopatra/1/2
+107023
+Tragedy/Antony and Cleopatra/1/5
+107024
+Tragedy/Antony and Cleopatra/1/4
+107025
+Tragedy/Antony and Cleopatra/2/3
+107031
+Tragedy/Antony and Cleopatra/2/1
+107032
+Tragedy/Antony and Cleopatra/2/7
+107033
+Tragedy/Antony and Cleopatra/2/2
+107034
+Tragedy/Antony and Cleopatra/2/5
+107035
+Tragedy/Antony and Cleopatra/2/6
+107036
+Tragedy/Antony and Cleopatra/2/4
+107037
+Tragedy/Antony and Cleopatra/5/1
+107041
+Tragedy/Antony and Cleopatra/5/2
+107042
+Tragedy/Antony and Cleopatra/4/8
+107051
+Tragedy/Antony and Cleopatra/4/3
+107052
+Tragedy/Antony and Cleopatra/4/13
+107053
+Tragedy/Antony and Cleopatra/4/1
+107054
+Tragedy/Antony and Cleopatra/4/10
+107055
+Tragedy/Antony and Cleopatra/4/7
+107056
+Tragedy/Antony and Cleopatra/4/2
+107057
+Tragedy/Antony and Cleopatra/4/5
+107058
+Tragedy/Antony and Cleopatra/4/9
+107059
+Tragedy/Antony and Cleopatra/4/12
+1070510
+Tragedy/Antony and Cleopatra/4/11
+1070511
+Tragedy/Antony and Cleopatra/4/14
+1070512
+Tragedy/Antony and Cleopatra/4/15
+1070513
+Tragedy/Antony and Cleopatra/4/6
+1070514
+Tragedy/Antony and Cleopatra/4/4
+1070515
+Tragedy/Titus Andronicus/3/1
+108011
+Tragedy/Titus Andronicus/3/2
+108012
+Tragedy/Titus Andronicus/1/1
+108021
+Tragedy/Titus Andronicus/2/3
+108031
+Tragedy/Titus Andronicus/2/1
+108032
+Tragedy/Titus Andronicus/2/2
+108033
+Tragedy/Titus Andronicus/2/4
+108034
+Tragedy/Titus Andronicus/5/3
+108041
+Tragedy/Titus Andronicus/5/1
+108042
+Tragedy/Titus Andronicus/5/2
+108043
+Tragedy/Titus Andronicus/4/3
+108051
+Tragedy/Titus Andronicus/4/1
+108052
+Tragedy/Titus Andronicus/4/2
+108053
+Tragedy/Titus Andronicus/4/4
+108054
+Tragedy/Julius Caesar/3/3
+109011
+Tragedy/Julius Caesar/3/1
+109012
+Tragedy/Julius Caesar/3/2
+109013
+Tragedy/Julius Caesar/1/3
+109021
+Tragedy/Julius Caesar/1/1
+109022
+Tragedy/Julius Caesar/1/2
+109023
+Tragedy/Julius Caesar/2/3
+109031
+Tragedy/Julius Caesar/2/1
+109032
+Tragedy/Julius Caesar/2/2
+109033
+Tragedy/Julius Caesar/2/4
+109034
+Tragedy/Julius Caesar/5/3
+109041
+Tragedy/Julius Caesar/5/1
+109042
+Tragedy/Julius Caesar/5/2
+109043
+Tragedy/Julius Caesar/5/5
+109044
+Tragedy/Julius Caesar/5/4
+109045
+Tragedy/Julius Caesar/4/3
+109051
+Tragedy/Julius Caesar/4/1
+109052
+Tragedy/Julius Caesar/4/2
+109053
+Tragedy/King Lear/3/3
+110011
+Tragedy/King Lear/3/1
+110012
+Tragedy/King Lear/3/7
+110013
+Tragedy/King Lear/3/2
+110014
+Tragedy/King Lear/3/5
+110015
+Tragedy/King Lear/3/6
+110016
+Tragedy/King Lear/3/4
+110017
+Tragedy/King Lear/1/3
+110021
+Tragedy/King Lear/1/1
+110022
+Tragedy/King Lear/1/2
+110023
+Tragedy/King Lear/1/5
+110024
+Tragedy/King Lear/1/4
+110025
+Tragedy/King Lear/2/3
+110031
+Tragedy/King Lear/2/1
+110032
+Tragedy/King Lear/2/2
+110033
+Tragedy/King Lear/2/4
+110034
+Tragedy/King Lear/5/3
+110041
+Tragedy/King Lear/5/1
+110042
+Tragedy/King Lear/5/2
+110043
+Tragedy/King Lear/4/3
+110051
+Tragedy/King Lear/4/1
+110052
+Tragedy/King Lear/4/7
+110053
+Tragedy/King Lear/4/2
+110054
+Tragedy/King Lear/4/5
+110055
+Tragedy/King Lear/4/6
+110056
+Tragedy/King Lear/4/4
+110057
+Comedy/Much Ado About Nothing/3/3
+201011
+Comedy/Much Ado About Nothing/3/1
+201012
+Comedy/Much Ado About Nothing/3/2
+201013
+Comedy/Much Ado About Nothing/3/5
+201014
+Comedy/Much Ado About Nothing/3/4
+201015
+Comedy/Much Ado About Nothing/1/3
+201021
+Comedy/Much Ado About Nothing/1/1
+201022
+Comedy/Much Ado About Nothing/1/2
+201023
+Comedy/Much Ado About Nothing/2/3
+201031
+Comedy/Much Ado About Nothing/2/1
+201032
+Comedy/Much Ado About Nothing/2/2
+201033
+Comedy/Much Ado About Nothing/5/3
+201041
+Comedy/Much Ado About Nothing/5/1
+201042
+Comedy/Much Ado About Nothing/5/2
+201043
+Comedy/Much Ado About Nothing/5/4
+201044
+Comedy/Much Ado About Nothing/4/1
+201051
+Comedy/Much Ado About Nothing/4/2
+201052
+Comedy/A Midsummer Night's Dream/3/1
+202011
+Comedy/A Midsummer Night's Dream/3/2
+202012
+Comedy/A Midsummer Night's Dream/1/1
+202021
+Comedy/A Midsummer Night's Dream/1/2
+202022
+Comedy/A Midsummer Night's Dream/2/1
+202031
+Comedy/A Midsummer Night's Dream/2/2
+202032
+Comedy/A Midsummer Night's Dream/5/1
+202041
+Comedy/A Midsummer Night's Dream/4/1
+202051
+Comedy/A Midsummer Night's Dream/4/2
+202052
+Comedy/As You Like It/3/3
+203011
+Comedy/As You Like It/3/1
+203012
+Comedy/As You Like It/3/2
+203013
+Comedy/As You Like It/3/5
+203014
+Comedy/As You Like It/3/4
+203015
+Comedy/As You Like It/1/3
+203021
+Comedy/As You Like It/1/1
+203022
+Comedy/As You Like It/1/2
+203023
+Comedy/As You Like It/2/3
+203031
+Comedy/As You Like It/2/1
+203032
+Comedy/As You Like It/2/7
+203033
+Comedy/As You Like It/2/2
+203034
+Comedy/As You Like It/2/5
+203035
+Comedy/As You Like It/2/6
+203036
+Comedy/As You Like It/2/4
+203037
+Comedy/As You Like It/5/3
+203041
+Comedy/As You Like It/5/1
+203042
+Comedy/As You Like It/5/2
+203043
+Comedy/As You Like It/5/4
+203044
+Comedy/As You Like It/4/3
+203051
+Comedy/As You Like It/4/1
+203052
+Comedy/As You Like It/4/2
+203053
+Comedy/The Merry Wives of Windsor/3/3
+204011
+Comedy/The Merry Wives of Windsor/3/1
+204012
+Comedy/The Merry Wives of Windsor/3/2
+204013
+Comedy/The Merry Wives of Windsor/3/5
+204014
+Comedy/The Merry Wives of Windsor/3/4
+204015
+Comedy/The Merry Wives of Windsor/1/3
+204021
+Comedy/The Merry Wives of Windsor/1/1
+204022
+Comedy/The Merry Wives of Windsor/1/2
+204023
+Comedy/The Merry Wives of Windsor/1/4
+204024
+Comedy/The Merry Wives of Windsor/2/3
+204031
+Comedy/The Merry Wives of Windsor/2/1
+204032
+Comedy/The Merry Wives of Windsor/2/2
+204033
+Comedy/The Merry Wives of Windsor/5/3
+204041
+Comedy/The Merry Wives of Windsor/5/1
+204042
+Comedy/The Merry Wives of Windsor/5/2
+204043
+Comedy/The Merry Wives of Windsor/5/5
+204044
+Comedy/The Merry Wives of Windsor/5/4
+204045
+Comedy/The Merry Wives of Windsor/4/3
+204051
+Comedy/The Merry Wives of Windsor/4/1
+204052
+Comedy/The Merry Wives of Windsor/4/2
+204053
+Comedy/The Merry Wives of Windsor/4/5
+204054
+Comedy/The Merry Wives of Windsor/4/6
+204055
+Comedy/The Merry Wives of Windsor/4/4
+204056
+Comedy/Cymbeline/3/3
+205011
+Comedy/Cymbeline/3/1
+205012
+Comedy/Cymbeline/3/7
+205013
+Comedy/Cymbeline/3/2
+205014
+Comedy/Cymbeline/3/5
+205015
+Comedy/Cymbeline/3/6
+205016
+Comedy/Cymbeline/3/4
+205017
+Comedy/Cymbeline/1/3
+205021
+Comedy/Cymbeline/1/1
+205022
+Comedy/Cymbeline/1/2
+205023
+Comedy/Cymbeline/1/5
+205024
+Comedy/Cymbeline/1/6
+205025
+Comedy/Cymbeline/1/4
+205026
+Comedy/Cymbeline/2/3
+205031
+Comedy/Cymbeline/2/1
+205032
+Comedy/Cymbeline/2/2
+205033
+Comedy/Cymbeline/2/4
+205034
+Comedy/Cymbeline/5/3
+205041
+Comedy/Cymbeline/5/1
+205042
+Comedy/Cymbeline/5/2
+205043
+Comedy/Cymbeline/5/5
+205044
+Comedy/Cymbeline/5/4
+205045
+Comedy/Cymbeline/4/3
+205051
+Comedy/Cymbeline/4/1
+205052
+Comedy/Cymbeline/4/2
+205053
+Comedy/Cymbeline/4/4
+205054
+Comedy/Taming of the Shrew/3/1
+206011
+Comedy/Taming of the Shrew/1/1
+206021
+Comedy/Taming of the Shrew/1/2
+206022
+Comedy/Taming of the Shrew/2/1
+206031
+Comedy/Taming of the Shrew/2/2
+206032
+Comedy/Taming of the Shrew/5/3
+206041
+Comedy/Taming of the Shrew/5/1
+206042
+Comedy/Taming of the Shrew/5/2
+206043
+Comedy/Taming of the Shrew/5/5
+206044
+Comedy/Taming of the Shrew/5/4
+206045
+Comedy/Taming of the Shrew/6/1
+206051
+Comedy/Taming of the Shrew/6/2
+206052
+Comedy/Taming of the Shrew/4/1
+206061
+Comedy/Taming of the Shrew/4/2
+206062
+Comedy/The Comedy of Errors/3/1
+207011
+Comedy/The Comedy of Errors/3/2
+207012
+Comedy/The Comedy of Errors/1/1
+207021
+Comedy/The Comedy of Errors/1/2
+207022
+Comedy/The Comedy of Errors/2/1
+207031
+Comedy/The Comedy of Errors/2/2
+207032
+Comedy/The Comedy of Errors/5/1
+207041
+Comedy/The Comedy of Errors/4/3
+207051
+Comedy/The Comedy of Errors/4/1
+207052
+Comedy/The Comedy of Errors/4/2
+207053
+Comedy/The Comedy of Errors/4/4
+207054
+Comedy/Measure for Measure/3/1
+208011
+Comedy/Measure for Measure/3/2
+208012
+Comedy/Measure for Measure/1/3
+208021
+Comedy/Measure for Measure/1/1
+208022
+Comedy/Measure for Measure/1/2
+208023
+Comedy/Measure for Measure/1/4
+208024
+Comedy/Measure for Measure/2/3
+208031
+Comedy/Measure for Measure/2/1
+208032
+Comedy/Measure for Measure/2/2
+208033
+Comedy/Measure for Measure/2/4
+208034
+Comedy/Measure for Measure/5/1
+208041
+Comedy/Measure for Measure/4/3
+208051
+Comedy/Measure for Measure/4/1
+208052
+Comedy/Measure for Measure/4/2
+208053
+Comedy/Measure for Measure/4/5
+208054
+Comedy/Measure for Measure/4/6
+208055
+Comedy/Measure for Measure/4/4
+208056
+Comedy/Pericles, Prince of Tyre/3/3
+209011
+Comedy/Pericles, Prince of Tyre/3/1
+209012
+Comedy/Pericles, Prince of Tyre/3/2
+209013
+Comedy/Pericles, Prince of Tyre/3/5
+209014
+Comedy/Pericles, Prince of Tyre/3/4
+209015
+Comedy/Pericles, Prince of Tyre/1/3
+209021
+Comedy/Pericles, Prince of Tyre/1/1
+209022
+Comedy/Pericles, Prince of Tyre/1/2
+209023
+Comedy/Pericles, Prince of Tyre/1/5
+209024
+Comedy/Pericles, Prince of Tyre/1/4
+209025
+Comedy/Pericles, Prince of Tyre/2/8
+209031
+Comedy/Pericles, Prince of Tyre/2/3
+209032
+Comedy/Pericles, Prince of Tyre/2/1
+209033
+Comedy/Pericles, Prince of Tyre/2/7
+209034
+Comedy/Pericles, Prince of Tyre/2/2
+209035
+Comedy/Pericles, Prince of Tyre/2/5
+209036
+Comedy/Pericles, Prince of Tyre/2/6
+209037
+Comedy/Pericles, Prince of Tyre/2/4
+209038
+Comedy/Pericles, Prince of Tyre/4/1
+209041
+Comedy/Pericles, Prince of Tyre/4/2
+209042
+Comedy/Two Gentlemen of Verona/3/1
+210011
+Comedy/Two Gentlemen of Verona/3/2
+210012
+Comedy/Two Gentlemen of Verona/1/3
+210021
+Comedy/Two Gentlemen of Verona/1/1
+210022
+Comedy/Two Gentlemen of Verona/1/2
+210023
+Comedy/Two Gentlemen of Verona/2/3
+210031
+Comedy/Two Gentlemen of Verona/2/1
+210032
+Comedy/Two Gentlemen of Verona/2/7
+210033
+Comedy/Two Gentlemen of Verona/2/2
+210034
+Comedy/Two Gentlemen of Verona/2/5
+210035
+Comedy/Two Gentlemen of Verona/2/6
+210036
+Comedy/Two Gentlemen of Verona/2/4
+210037
+Comedy/Two Gentlemen of Verona/5/3
+210041
+Comedy/Two Gentlemen of Verona/5/1
+210042
+Comedy/Two Gentlemen of Verona/5/2
+210043
+Comedy/Two Gentlemen of Verona/5/4
+210044
+Comedy/Two Gentlemen of Verona/4/3
+210051
+Comedy/Two Gentlemen of Verona/4/1
+210052
+Comedy/Two Gentlemen of Verona/4/2
+210053
+Comedy/Two Gentlemen of Verona/4/4
+210054
+Comedy/Love's Labours Lost/3/1
+211011
+Comedy/Love's Labours Lost/1/1
+211021
+Comedy/Love's Labours Lost/1/2
+211022
+Comedy/Love's Labours Lost/2/1
+211031
+Comedy/Love's Labours Lost/5/1
+211041
+Comedy/Love's Labours Lost/5/2
+211042
+Comedy/Love's Labours Lost/4/3
+211051
+Comedy/Love's Labours Lost/4/1
+211052
+Comedy/Love's Labours Lost/4/2
+211053
+Comedy/The Merchant of Venice/3/3
+212011
+Comedy/The Merchant of Venice/3/1
+212012
+Comedy/The Merchant of Venice/3/2
+212013
+Comedy/The Merchant of Venice/3/5
+212014
+Comedy/The Merchant of Venice/3/4
+212015
+Comedy/The Merchant of Venice/1/3
+212021
+Comedy/The Merchant of Venice/1/1
+212022
+Comedy/The Merchant of Venice/1/2
+212023
+Comedy/The Merchant of Venice/2/8
+212031
+Comedy/The Merchant of Venice/2/3
+212032
+Comedy/The Merchant of Venice/2/1
+212033
+Comedy/The Merchant of Venice/2/7
+212034
+Comedy/The Merchant of Venice/2/2
+212035
+Comedy/The Merchant of Venice/2/5
+212036
+Comedy/The Merchant of Venice/2/9
+212037
+Comedy/The Merchant of Venice/2/6
+212038
+Comedy/The Merchant of Venice/2/4
+212039
+Comedy/The Merchant of Venice/5/1
+212041
+Comedy/The Merchant of Venice/4/1
+212051
+Comedy/The Merchant of Venice/4/2
+212052
+Comedy/Troilus and Cressida/3/3
+213011
+Comedy/Troilus and Cressida/3/1
+213012
+Comedy/Troilus and Cressida/3/2
+213013
+Comedy/Troilus and Cressida/1/3
+213021
+Comedy/Troilus and Cressida/1/1
+213022
+Comedy/Troilus and Cressida/1/2
+213023
+Comedy/Troilus and Cressida/2/3
+213031
+Comedy/Troilus and Cressida/2/1
+213032
+Comedy/Troilus and Cressida/2/2
+213033
+Comedy/Troilus and Cressida/5/8
+213041
+Comedy/Troilus and Cressida/5/3
+213042
+Comedy/Troilus and Cressida/5/1
+213043
+Comedy/Troilus and Cressida/5/10
+213044
+Comedy/Troilus and Cressida/5/7
+213045
+Comedy/Troilus and Cressida/5/2
+213046
+Comedy/Troilus and Cressida/5/5
+213047
+Comedy/Troilus and Cressida/5/9
+213048
+Comedy/Troilus and Cressida/5/6
+213049
+Comedy/Troilus and Cressida/5/4
+2130410
+Comedy/Troilus and Cressida/4/3
+213051
+Comedy/Troilus and Cressida/4/1
+213052
+Comedy/Troilus and Cressida/4/2
+213053
+Comedy/Troilus and Cressida/4/5
+213054
+Comedy/Troilus and Cressida/4/4
+213055
+Comedy/The Tempest/3/3
+214011
+Comedy/The Tempest/3/1
+214012
+Comedy/The Tempest/3/2
+214013
+Comedy/The Tempest/1/1
+214021
+Comedy/The Tempest/1/2
+214022
+Comedy/The Tempest/2/1
+214031
+Comedy/The Tempest/2/2
+214032
+Comedy/The Tempest/5/1
+214041
+Comedy/The Tempest/4/1
+214051
+Comedy/All's Well That Ends Well/3/3
+215011
+Comedy/All's Well That Ends Well/3/1
+215012
+Comedy/All's Well That Ends Well/3/7
+215013
+Comedy/All's Well That Ends Well/3/2
+215014
+Comedy/All's Well That Ends Well/3/5
+215015
+Comedy/All's Well That Ends Well/3/6
+215016
+Comedy/All's Well That Ends Well/3/4
+215017
+Comedy/All's Well That Ends Well/1/3
+215021
+Comedy/All's Well That Ends Well/1/1
+215022
+Comedy/All's Well That Ends Well/1/2
+215023
+Comedy/All's Well That Ends Well/2/3
+215031
+Comedy/All's Well That Ends Well/2/1
+215032
+Comedy/All's Well That Ends Well/2/2
+215033
+Comedy/All's Well That Ends Well/2/5
+215034
+Comedy/All's Well That Ends Well/2/4
+215035
+Comedy/All's Well That Ends Well/5/3
+215041
+Comedy/All's Well That Ends Well/5/1
+215042
+Comedy/All's Well That Ends Well/5/2
+215043
+Comedy/All's Well That Ends Well/4/3
+215051
+Comedy/All's Well That Ends Well/4/1
+215052
+Comedy/All's Well That Ends Well/4/2
+215053
+Comedy/All's Well That Ends Well/4/5
+215054
+Comedy/All's Well That Ends Well/4/4
+215055
+Comedy/Twelfth Night/3/3
+216011
+Comedy/Twelfth Night/3/1
+216012
+Comedy/Twelfth Night/3/2
+216013
+Comedy/Twelfth Night/3/4
+216014
+Comedy/Twelfth Night/1/3
+216021
+Comedy/Twelfth Night/1/1
+216022
+Comedy/Twelfth Night/1/2
+216023
+Comedy/Twelfth Night/1/5
+216024
+Comedy/Twelfth Night/1/4
+216025
+Comedy/Twelfth Night/2/3
+216031
+Comedy/Twelfth Night/2/1
+216032
+Comedy/Twelfth Night/2/2
+216033
+Comedy/Twelfth Night/2/5
+216034
+Comedy/Twelfth Night/2/4
+216035
+Comedy/Twelfth Night/5/1
+216041
+Comedy/Twelfth Night/4/3
+216051
+Comedy/Twelfth Night/4/1
+216052
+Comedy/Twelfth Night/4/2
+216053
+Comedy/Winter's Tale/3/3
+217011
+Comedy/Winter's Tale/3/1
+217012
+Comedy/Winter's Tale/3/2
+217013
+Comedy/Winter's Tale/3/5
+217014
+Comedy/Winter's Tale/3/6
+217015
+Comedy/Winter's Tale/3/4
+217016
+Comedy/Winter's Tale/1/1
+217021
+Comedy/Winter's Tale/1/2
+217022
+Comedy/Winter's Tale/2/3
+217031
+Comedy/Winter's Tale/2/1
+217032
+Comedy/Winter's Tale/2/2
+217033
+Comedy/Winter's Tale/4/3
+217041
+Comedy/Winter's Tale/4/1
+217042
+Comedy/Winter's Tale/4/2
+217043
+Poetry/Henry V/3/8
+301011
+Poetry/Henry V/3/3
+301012
+Poetry/Henry V/3/1
+301013
+Poetry/Henry V/3/7
+301014
+Poetry/Henry V/3/2
+301015
+Poetry/Henry V/3/5
+301016
+Poetry/Henry V/3/6
+301017
+Poetry/Henry V/3/4
+301018
+Poetry/Henry V/1/3
+301021
+Poetry/Henry V/1/1
+301022
+Poetry/Henry V/1/2
+301023
+Poetry/Henry V/2/3
+301031
+Poetry/Henry V/2/1
+301032
+Poetry/Henry V/2/2
+301033
+Poetry/Henry V/2/5
+301034
+Poetry/Henry V/2/4
+301035
+Poetry/Henry V/5/3
+301041
+Poetry/Henry V/5/1
+301042
+Poetry/Henry V/5/2
+301043
+Poetry/Henry V/4/8
+301051
+Poetry/Henry V/4/3
+301052
+Poetry/Henry V/4/1
+301053
+Poetry/Henry V/4/7
+301054
+Poetry/Henry V/4/2
+301055
+Poetry/Henry V/4/5
+301056
+Poetry/Henry V/4/9
+301057
+Poetry/Henry V/4/6
+301058
+Poetry/Henry V/4/4
+301059
+Poetry/Henry VI, part 1/3/3
+302011
+Poetry/Henry VI, part 1/3/1
+302012
+Poetry/Henry VI, part 1/3/2
+302013
+Poetry/Henry VI, part 1/3/4
+302014
+Poetry/Henry VI, part 1/1/3
+302021
+Poetry/Henry VI, part 1/1/1
+302022
+Poetry/Henry VI, part 1/1/2
+302023
+Poetry/Henry VI, part 1/1/5
+302024
+Poetry/Henry VI, part 1/1/6
+302025
+Poetry/Henry VI, part 1/1/4
+302026
+Poetry/Henry VI, part 1/2/3
+302031
+Poetry/Henry VI, part 1/2/1
+302032
+Poetry/Henry VI, part 1/2/2
+302033
+Poetry/Henry VI, part 1/2/5
+302034
+Poetry/Henry VI, part 1/2/4
+302035
+Poetry/Henry VI, part 1/5/3
+302041
+Poetry/Henry VI, part 1/5/1
+302042
+Poetry/Henry VI, part 1/5/2
+302043
+Poetry/Henry VI, part 1/5/5
+302044
+Poetry/Henry VI, part 1/5/4
+302045
+Poetry/Henry VI, part 1/4/3
+302051
+Poetry/Henry VI, part 1/4/1
+302052
+Poetry/Henry VI, part 1/4/7
+302053
+Poetry/Henry VI, part 1/4/2
+302054
+Poetry/Henry VI, part 1/4/5
+302055
+Poetry/Henry VI, part 1/4/6
+302056
+Poetry/Henry VI, part 1/4/4
+302057
+Poetry/Richard III/3/3
+303011
+Poetry/Richard III/3/1
+303012
+Poetry/Richard III/3/7
+303013
+Poetry/Richard III/3/2
+303014
+Poetry/Richard III/3/5
+303015
+Poetry/Richard III/3/6
+303016
+Poetry/Richard III/3/4
+303017
+Poetry/Richard III/1/3
+303021
+Poetry/Richard III/1/1
+303022
+Poetry/Richard III/1/2
+303023
+Poetry/Richard III/1/4
+303024
+Poetry/Richard III/2/3
+303031
+Poetry/Richard III/2/1
+303032
+Poetry/Richard III/2/2
+303033
+Poetry/Richard III/2/4
+303034
+Poetry/Richard III/5/3
+303041
+Poetry/Richard III/5/1
+303042
+Poetry/Richard III/5/2
+303043
+Poetry/Richard III/5/5
+303044
+Poetry/Richard III/5/4
+303045
+Poetry/Richard III/4/3
+303051
+Poetry/Richard III/4/1
+303052
+Poetry/Richard III/4/2
+303053
+Poetry/Richard III/4/5
+303054
+Poetry/Richard III/4/4
+303055
+Poetry/Henry IV, part 2/3/1
+304011
+Poetry/Henry IV, part 2/3/2
+304012
+Poetry/Henry IV, part 2/1/3
+304021
+Poetry/Henry IV, part 2/1/1
+304022
+Poetry/Henry IV, part 2/1/2
+304023
+Poetry/Henry IV, part 2/2/3
+304031
+Poetry/Henry IV, part 2/2/1
+304032
+Poetry/Henry IV, part 2/2/2
+304033
+Poetry/Henry IV, part 2/2/4
+304034
+Poetry/Henry IV, part 2/5/3
+304041
+Poetry/Henry IV, part 2/5/1
+304042
+Poetry/Henry IV, part 2/5/2
+304043
+Poetry/Henry IV, part 2/5/5
+304044
+Poetry/Henry IV, part 2/5/4
+304045
+Poetry/Henry IV, part 2/4/3
+304051
+Poetry/Henry IV, part 2/4/1
+304052
+Poetry/Henry IV, part 2/4/2
+304053
+Poetry/Henry IV, part 2/4/5
+304054
+Poetry/Henry IV, part 2/4/4
+304055
+Poetry/King John/3/3
+305011
+Poetry/King John/3/1
+305012
+Poetry/King John/3/2
+305013
+Poetry/King John/3/4
+305014
+Poetry/King John/1/1
+305021
+Poetry/King John/2/1
+305031
+Poetry/King John/5/3
+305041
+Poetry/King John/5/1
+305042
+Poetry/King John/5/7
+305043
+Poetry/King John/5/2
+305044
+Poetry/King John/5/5
+305045
+Poetry/King John/5/6
+305046
+Poetry/King John/5/4
+305047
+Poetry/King John/4/3
+305051
+Poetry/King John/4/1
+305052
+Poetry/King John/4/2
+305053
+Poetry/Henry VI, part 3/3/3
+306011
+Poetry/Henry VI, part 3/3/1
+306012
+Poetry/Henry VI, part 3/3/2
+306013
+Poetry/Henry VI, part 3/1/3
+306021
+Poetry/Henry VI, part 3/1/1
+306022
+Poetry/Henry VI, part 3/1/2
+306023
+Poetry/Henry VI, part 3/1/4
+306024
+Poetry/Henry VI, part 3/2/3
+306031
+Poetry/Henry VI, part 3/2/1
+306032
+Poetry/Henry VI, part 3/2/2
+306033
+Poetry/Henry VI, part 3/2/5
+306034
+Poetry/Henry VI, part 3/2/6
+306035
+Poetry/Henry VI, part 3/2/4
+306036
+Poetry/Henry VI, part 3/5/3
+306041
+Poetry/Henry VI, part 3/5/1
+306042
+Poetry/Henry VI, part 3/5/7
+306043
+Poetry/Henry VI, part 3/5/2
+306044
+Poetry/Henry VI, part 3/5/5
+306045
+Poetry/Henry VI, part 3/5/6
+306046
+Poetry/Henry VI, part 3/5/4
+306047
+Poetry/Henry VI, part 3/4/8
+306051
+Poetry/Henry VI, part 3/4/3
+306052
+Poetry/Henry VI, part 3/4/1
+306053
+Poetry/Henry VI, part 3/4/7
+306054
+Poetry/Henry VI, part 3/4/2
+306055
+Poetry/Henry VI, part 3/4/5
+306056
+Poetry/Henry VI, part 3/4/6
+306057
+Poetry/Henry VI, part 3/4/4
+306058
+Poetry/Henry IV, part 1/3/1
+307011
+Poetry/Henry IV, part 1/3/2
+307012
+Poetry/Henry IV, part 1/1/3
+307021
+Poetry/Henry IV, part 1/1/1
+307022
+Poetry/Henry IV, part 1/1/2
+307023
+Poetry/Henry IV, part 1/2/3
+307031
+Poetry/Henry IV, part 1/2/1
+307032
+Poetry/Henry IV, part 1/2/2
+307033
+Poetry/Henry IV, part 1/2/4
+307034
+Poetry/Henry IV, part 1/5/3
+307041
+Poetry/Henry IV, part 1/5/1
+307042
+Poetry/Henry IV, part 1/5/2
+307043
+Poetry/Henry IV, part 1/5/5
+307044
+Poetry/Henry IV, part 1/5/4
+307045
+Poetry/Henry IV, part 1/4/3
+307051
+Poetry/Henry IV, part 1/4/1
+307052
+Poetry/Henry IV, part 1/4/2
+307053
+Poetry/Henry IV, part 1/4/4
+307054
+Poetry/Richard II/3/3
+308011
+Poetry/Richard II/3/1
+308012
+Poetry/Richard II/3/2
+308013
+Poetry/Richard II/3/4
+308014
+Poetry/Richard II/1/3
+308021
+Poetry/Richard II/1/1
+308022
+Poetry/Richard II/1/2
+308023
+Poetry/Richard II/1/4
+308024
+Poetry/Richard II/2/3
+308031
+Poetry/Richard II/2/1
+308032
+Poetry/Richard II/2/2
+308033
+Poetry/Richard II/2/4
+308034
+Poetry/Richard II/5/3
+308041
+Poetry/Richard II/5/1
+308042
+Poetry/Richard II/5/2
+308043
+Poetry/Richard II/5/5
+308044
+Poetry/Richard II/5/6
+308045
+Poetry/Richard II/5/4
+308046
+Poetry/Richard II/4/1
+308051
+Poetry/Henry VIII/3/1
+309011
+Poetry/Henry VIII/3/2
+309012
+Poetry/Henry VIII/1/3
+309021
+Poetry/Henry VIII/1/1
+309022
+Poetry/Henry VIII/1/2
+309023
+Poetry/Henry VIII/1/5
+309024
+Poetry/Henry VIII/1/4
+309025
+Poetry/Henry VIII/2/3
+309031
+Poetry/Henry VIII/2/1
+309032
+Poetry/Henry VIII/2/2
+309033
+Poetry/Henry VIII/2/4
+309034
+Poetry/Henry VIII/5/3
+309041
+Poetry/Henry VIII/5/1
+309042
+Poetry/Henry VIII/5/2
+309043
+Poetry/Henry VIII/5/5
+309044
+Poetry/Henry VIII/5/4
+309045
+Poetry/Henry VIII/4/1
+309051
+Poetry/Henry VIII/4/2
+309052
+Poetry/Henry VI, part 2/3/3
+310011
+Poetry/Henry VI, part 2/3/1
+310012
+Poetry/Henry VI, part 2/3/2
+310013
+Poetry/Henry VI, part 2/1/3
+310021
+Poetry/Henry VI, part 2/1/1
+310022
+Poetry/Henry VI, part 2/1/2
+310023
+Poetry/Henry VI, part 2/1/4
+310024
+Poetry/Henry VI, part 2/2/3
+310031
+Poetry/Henry VI, part 2/2/1
+310032
+Poetry/Henry VI, part 2/2/2
+310033
+Poetry/Henry VI, part 2/2/4
+310034
+Poetry/Henry VI, part 2/5/3
+310041
+Poetry/Henry VI, part 2/5/1
+310042
+Poetry/Henry VI, part 2/5/2
+310043
+Poetry/Henry VI, part 2/4/8
+310051
+Poetry/Henry VI, part 2/4/3
+310052
+Poetry/Henry VI, part 2/4/1
+310053
+Poetry/Henry VI, part 2/4/10
+310054
+Poetry/Henry VI, part 2/4/7
+310055
+Poetry/Henry VI, part 2/4/2
+310056
+Poetry/Henry VI, part 2/4/5
+310057
+Poetry/Henry VI, part 2/4/9
+310058
+Poetry/Henry VI, part 2/4/6
+310059
+Poetry/Henry VI, part 2/4/4
+3100510
